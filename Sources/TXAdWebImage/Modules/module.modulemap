@@ -1,0 +1,5 @@
+module TXAdWebImage {
+  umbrella header "include/TXAdWebImage/TXAdWebImage.h"
+  export *
+  module * { export * }
+}
